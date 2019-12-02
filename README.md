@@ -1,4 +1,4 @@
-# zheng-118
+# Zheng Yuan
 # SyntenyPlot
 
 	usage: synteny_plot.pl global.config synteny.config annotation.config output.svg
